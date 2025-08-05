@@ -136,21 +136,7 @@ word2Latex_agent/
 - **Template Switching**: Modify `latex_template_file` variable to select different journal templates
 - **AI Model Configuration**: Choose different language models in `agent.py`
 
-## Use Cases
 
-- **Academic Paper Submission**: Quickly convert to target journal LaTeX format
-- **Multi-journal Submission**: Adapt one content to multiple journal templates
-- **Paper Format Standardization**: Unify paper format and citation standards
-- **Batch Document Processing**: Handle format conversion for multiple papers
-- **Collaborative Writing**: Word writing → LaTeX publishing workflow
-
-## Technical Features
-
-- **AI-Driven**: Utilizes Large Language Models to understand document content and structure
-- **Modular Design**: Independent functional modules, easy to extend and maintain
-- **Format Fidelity**: Maximize preservation of original document format and structure
-- **Automated Processing**: Reduce manual operations and improve conversion efficiency
-- **Open Source Integration**: Integrate excellent open source tools and resources
 
 ## Acknowledgments
 
@@ -159,23 +145,4 @@ The reference processing functionality of this project is based on the excellent
 
 Thanks to the open source community's contributions, making academic tool development more convenient and efficient.
 
-## Development Roadmap
 
-- [ ] Support more journal and conference templates
-- [ ] Optimize LaTeX format generation for images and tables
-- [ ] Add PDF document input support
-- [ ] Implement GUI interface
-- [ ] Support more language model choices
-- [ ] Add format validation and error correction features
-
-## Feedback and Support
-
-If you need help or encounter problems, please:
-1. Check detailed log output from each module
-2. Confirm API keys and network connections are working properly
-3. Refer to README documentation of each sub-module
-4. Submit Issues or contact developers
-
----
-
-> **Note**: Before using this tool, please ensure compliance with relevant AI service terms of use and maintain academic integrity standards.
